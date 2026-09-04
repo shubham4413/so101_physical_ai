@@ -24,7 +24,7 @@ not a benchmark success-rate claim.
 - Closed-loop ACT deployment bridge with timestamp synchronization, joint-limit
   clipping, velocity limiting, stale-observation rejection, and dry-run mode.
 
-## Result
+## Results
 
 | Item | Value |
 |---|---:|
